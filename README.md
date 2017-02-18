@@ -1,3 +1,4 @@
+
 # 印象笔记搜索 - Alfred 3 workflow
 
 本 workflow 使用了[印象笔记 API](https://dev.yinxiang.com/doc/) 来进行笔记搜索，可以提供比桌面应用更加精准的搜索。同时，此 workflow 还支持印象笔记的[所有高级搜索语法](https://dev.yinxiang.com/doc/articles/search_grammar.php)。
